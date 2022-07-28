@@ -1,0 +1,45 @@
+body{
+  font-family: 'PT Sans', sans-serif;
+}
+.ar{
+  width:90%;
+  height:auto;
+  margin:auto;
+  padding:5px;
+  margin-top:10px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.ar img{
+  width:100%;
+}
+.ar #title{
+  margin-left:5px;
+}
+.ar #date,.ar a{
+  margin-left: 5px;
+}
+.ar #des{
+  margin:5px;
+}
+a{
+  text-decoration: none;
+  color:#00416a;
+}
+#query{
+  width:85%;
+  height:25px;
+  
+}
+#go{
+  height:30px;
+  border:none;
+  background: slategray;
+  color:#fff;
+  
+  
+  
+}
+#go:active{
+  background: #00416a;
+  color:#fff;
+}
